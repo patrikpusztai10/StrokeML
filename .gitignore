@@ -1,0 +1,6 @@
+*.h5
+*.keras
+Dataset/
+__pycache__/
+*.pyc
+.venv/
